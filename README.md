@@ -9,8 +9,8 @@ Still Under Development
 
 ## 🔗 Topics
 
-- [Artificial Intelligence](./src/Artificial_Intelligence.md)  
-- [Problem Solving](./src/Problem_Solving.md)  
+- [Artificial Intelligence](./src/AI.md)  
+- [Problem Solving](./src/ProblemSolving.md)  
 ---
 
 ## Contribution
