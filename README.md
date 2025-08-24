@@ -1,4 +1,4 @@
-# 📚 Sources for CS Topics
+# Sources for CS Topics
 
 This repository collects **learning resources** for different Computer Science fields.  
 Each topic has its own Markdown file with playlists, courses, and references.
