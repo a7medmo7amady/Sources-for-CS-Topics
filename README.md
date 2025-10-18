@@ -7,10 +7,11 @@ Still Under Development
 
 ---
 
-## 🔗 Topics
+## Topics
 
 - [Artificial Intelligence](./src/AI.md)  
 - [Problem Solving](./src/ProblemSolving.md)  
+- [Linear Algbera](./src/LinearAlgebra.md)
 ---
 
 ## Contribution
