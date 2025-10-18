@@ -3,7 +3,7 @@
 
 ---
 # MIT Linear Algbera Course
-[MIT playlist] (https://www.youtube.com/watch?v=7UJ4CFRGd-U&list=PL221E2BBF13BECF6C)
+[MIT playlist](https://www.youtube.com/watch?v=7UJ4CFRGd-U&list=PL221E2BBF13BECF6C)
 
 --- 
 # Text Book For linear Algbera 
