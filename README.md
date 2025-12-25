@@ -12,6 +12,7 @@ Still Under Development
 - [Artificial Intelligence](./src/AI.md)  
 - [Problem Solving](./src/ProblemSolving.md)  
 - [Linear Algbera](./src/LinearAlgebra.md)
+- [Machine Learning](./src/ML.md)
 ---
 
 ## Contribution
