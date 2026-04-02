@@ -8,6 +8,7 @@
 
 - [Amigos code Springboot](https://www.youtube.com/watch?v=8SGI_XS5OPw&list=PLwvrYc43l1MzeA2bBYQhCWr2gvWLs9A7S)
 
+- [Golang for backend](https://www.youtube.com/watch?v=inOiIpDHB-o&list=PLui3EUkuMTPhxPWqrrIvr5ckMepIbMilJ&pp=0gcJCbwEOCosWNin)
 
 - [Hussein Naser backend enigeering for beginners](https://www.youtube.com/watch?v=V3ZPPPKEipA&list=PLQnljOFTspQUNnO4p00ua_C5mKTfldiYT)
 
@@ -24,5 +25,6 @@
 
  - [Design Data Intensive Apps](https://drive.google.com/file/d/1CNtmf-CpyjaMV3SFmLMOfBy7-VRtJPEa/view?usp=drive_link)
  ---
- 
+
+
  ### If you already choose a framework, relay the docs mainly to learn the framework and remember you are not a frameworker
