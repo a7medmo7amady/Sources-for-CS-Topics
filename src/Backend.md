@@ -23,4 +23,4 @@
  - [Design Data Intensive Apps](https://drive.google.com/file/d/1CNtmf-CpyjaMV3SFmLMOfBy7-VRtJPEa/view?usp=drive_link)
  ---
  
- ### If you already choose a track relay mainly on the docs
+ ### If you already choose a framework, relay the docs mainly to learn the framework and remember you are not a frameworker
